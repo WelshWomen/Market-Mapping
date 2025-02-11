@@ -1,6 +1,8 @@
-# Sourcing - 
+# Sourcing - Définition du périmètre et des critères d’analyse
 
-## Définition du périmètre et des critères d’analyse
+> Développeur(euse) Python expérimenté(e)
+
+## Définir les **secteurs cibles** et les **zones géographiques**
 
 ### **Secteurs technologiques**
 - ESN (Entreprises de Services Numériques), SSII
@@ -10,6 +12,22 @@
 ### **Grandes entreprises**
 - Groupes ayant des équipes data et cloud
 - Secteurs : Retail, E-commerce, Assurance, Banque
+
+## Identifier les **profils recherchés** et leurs compétences clés  
+
+### **Backend Python**
+- FastAPI, Flask, Django
+
+### **Cloud & Data**
+- Google Cloud, AWS, BigQuery, Dataflow, Snowflake
+
+### **DevOps & API**
+- CI/CD, GitLab, microservices
+
+### **IA & Machine Learning**
+- NLP, LLM, automatisation de workflows data
+
+## Comprendre l’**environnement concurrentiel** et les dynamiques du marché
 
 ### **Communautés et Meetups**
 - **Python Lille Meetup**
@@ -23,18 +41,6 @@
 - **42 Lille**
 - **Centrale Lille**
 - **Université de Lille** (Master Data Science, IA, Informatique)
-
-### **Backend Python**
-- FastAPI, Flask, Django
-
-### **Cloud & Data**
-- Google Cloud, AWS, BigQuery, Dataflow, Snowflake
-
-### **DevOps & API**
-- CI/CD, GitLab, microservices
-
-### **IA & Machine Learning**
-- NLP, LLM, automatisation de workflows data
 
 ## Suivi et itération
 - **Analyse des retours** : taux de réponse ??
