@@ -1,8 +1,7 @@
-# Sourcing - Définition du périmètre et des critères d’analyse
+# Market Mapping Python, AI, ML
+> Définition du périmètre et des critères d’analyse
 
-> Développeur(euse) Python expérimenté(e)
-
-## Définir les **secteurs cibles** et les **zones géographiques**
+1️⃣ Définir les **secteurs cibles** et les **zones géographiques**
 
 ### **Secteurs**
 - Tech & Digital
@@ -21,7 +20,7 @@
 - Nord (59) : Lille, Dunkerque, Valenciennes.
 - Pas-de-Calais (62) : Arras, Calais, Boulogne-sur-Mer.
 
-## Identifier les **profils recherchés** et leurs compétences clés  
+2️⃣ Identifier les **profils recherchés** et leurs **compétences clés**.
 
 ### Langages de Programmation
 - **Python** : Frameworks web (Django, Flask, FastAPI), librairies scientifiques (NumPy, Pandas, SciPy).
@@ -132,17 +131,16 @@
 - **Modèles spécialisés** : Mistral AI, vLLM, Hugging Face Transformers.
 - **Considérations éthiques** : Biais, confidentialité, sécurité.
 
-## Comprendre l’**environnement concurrentiel** et les dynamiques du marché
+3️⃣ Comprendre l’**environnement concurrentiel** et les dynamiques du marché
 
-### **Communautés et Meetups**
+### Communautés et Meetups
 - **Python Lille Meetup**
 - **DevFest Lille**
 - **Devoxx France**
 - **PyCon France**
 
-### **Écoles et formations**
+### Écoles et formations
 
-## Lille et Métropole Lilloise
 - EPSI Lille
 - Epitech Lille
 - SUPINFO Lille
@@ -154,23 +152,11 @@
 - 42 Lille
 - CESI École d'ingénieurs (Campus de Lille)
 - ENIGMA
-
-## Amiens
 - EPSI Amiens
 - IUT d'Amiens (DUT Informatique)
 - UniLaSalle (Formation ingénieur numérique)
-
-## Valenciennes
 - INSA Hauts-de-France (Département informatique)
 - IUT de Valenciennes (DUT Informatique)
-
-## Calais/Dunkerque
 - EILCO (École d'Ingénieurs du Littoral Côte d'Opale)
 - IUT du Littoral (DUT Informatique)
-
-## Compiègne
 - UTC (Université de Technologie de Compiègne - Génie Informatique)
-
-## Suivi et itération
-- **Analyse des retours** : taux de réponse ??
-- **Amélioration continue** : ajustement des messages et des canaux en fonction des résultats ??
