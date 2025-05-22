@@ -135,8 +135,10 @@
 ### Communautés et Meetups
 - **Python Lille Meetup**
 - **DevFest Lille**
+- **Devlille**
 - **Devoxx France**
 - **PyCon France**
+- **Data Days**
 
 ### Écoles et formations
 
